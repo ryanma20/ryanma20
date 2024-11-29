@@ -15,10 +15,12 @@
 
 ## 💼 Work Experience
 - Academia Sinica,IOE | Research Assistant | 2023.10-2024.06 
-- 
-  
+- TMS Technologies Co., LTD. | Intern | 2022.09-2023.01 
+- Institute for Information Industry,EDU | Teaching Assistant | 2021.09-2023.02 
+- National Taiwan University Hospital,EOM | Full Time Research Assistant | 2021.01-2021.08 
+
 ## ⛰️ Interests
 - Amateur postcard illustrator and hiking enthusiast.  
-- Published a [Taiwan Mountain Postcard](https://www.zeczec.com/projects/mtpostcard) through crowdfunding in 2023.
+- Published a [Taiwan Mountain Postcard](https://www.zeczec.com/projects/mtpostcard) through crowdfunding in 2023.(嘖嘖募資)
 
 
