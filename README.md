@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/ryanma20/ryanma20/refs/heads/main/pic.jpeg" alt="image" style="width:50%;" align="center">
+<p align="center">
+<img src="https://raw.githubusercontent.com/ryanma20/ryanma20/refs/heads/main/pic.jpeg" alt="image" style="width:50%;">
 
 
 ## 📌 About me
