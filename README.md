@@ -1,5 +1,5 @@
 <p align="center">
-<img ![Logo](https://raw.githubusercontent.com/ryanma20/ryanma20/refs/heads/main/pic.jpg)">
+<img src=(https://raw.githubusercontent.com/ryanma20/ryanma20/refs/heads/main/pic.jpg)">
 </p>
 
 ## 📌 About me
