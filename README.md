@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/ryanma20/ryanma20/refs/heads/main/pic.jpeg" alt="image" style="width:50%;">
+<img src="https://raw.githubusercontent.com/ryanma20/ryanma20/refs/heads/main/pic.jpeg" alt="image" style="width:60%;">
 
 
 ## 📌 About me
