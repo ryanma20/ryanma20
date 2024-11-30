@@ -18,11 +18,11 @@ M.A   in Geography, NTNU<br />
 B.Sc. in Geography, PCCU<br />
 
 ## 💼 Work Experience
-<br />
-- Academia Sinica,IOE                    | Research Assistant | 2023.10-2024.06
-- TMS Technologies Co., LTD.             | Intern             | 2022.09-2023.01 
-- Institute for Information Industry,EDU | Teaching Assistant | 2021.09-2023.02 
-- National Taiwan University Hospital,EOM| Full Time Research Assistant | 2021.01-2021.08
+
+- Academia Sinica,IOE                    | Research Assistant | 2023.10-2024.06<br />
+- TMS Technologies Co., LTD.             | Intern             | 2022.09-2023.01<br />
+- Institute for Information Industry,EDU | Teaching Assistant | 2021.09-2023.02<br />
+- National Taiwan University Hospital,EOM| Full Time Research Assistant | 2021.01-2021.08<br />
 
 ## 📚 Academic Publishing 
 -Poster Presentation<br />
