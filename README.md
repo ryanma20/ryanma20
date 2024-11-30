@@ -25,9 +25,9 @@ B.Sc. in Geography, PCCU<br />
 
 ## 📚 Academic Publishing 
 -Poster Presentation
-Analysing bus commuting patterns using smart card data: A case study in Neihu Technology Park.</em> [American Association of Geographers 2023 Annual Meeting](https://aag.secure-platform.com/aag2023/solicitations/39/sessiongallery/6823)</em>.USA,Denver. Mar 24, 2023.
+Analysing bus commuting patterns using smart card data: A case study in Neihu Technology Park.</em> [American Association of Geographers 2023 Annual Meeting](https://aag.secure-platform.com/aag2023/solicitations/39/sessiongallery/6823)</em>.USA,Denver. Mar 24, 2023.<br />
 -Edited Books
-Studying Taiwan Before Taiwan Studies: American Anthropologists in Cold War Taiwan.</em>Institute of Taiwan History, Academia Sinica</em>.2024.
+Studying Taiwan Before Taiwan Studies: American Anthropologists in Cold War Taiwan.</em>Institute of Taiwan History, Academia Sinica</em>.2024.<br />
 ## ⛰️ Interests
 - Amateur postcard illustrator and hiking enthusiast.  
 - Published a [Taiwan Mountain Postcard](https://www.zeczec.com/projects/mtpostcard) through crowdfunding in 2023.(嘖嘖募資)
