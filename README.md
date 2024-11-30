@@ -12,7 +12,7 @@
 | ✍️ [Medium](https://medium.com/@mmaryan73) | 💼 [LinkedIn](https://www.linkedin.com/in/zhi-yang-m-043808217/) | 📮[Postmark design](https://www.post.gov.tw/post/internet/Philately/sz_stampmark_dtl.jsp?temp_sn=12444&ID=507)|
 
 ## 🎓 Education
-<strong>M.A   in Geography, NTNU<strong> <br />
+M.A   in Geography, NTNU<br />
 – Awarded as 2023 Graduate Student Honoree ; GPA 4.0/4.5<br />
 – Exchange to the Institute of Geography at UHH (Universität Hamburg), 2023 <br />
 B.Sc. in Geography, PCCU<br />
