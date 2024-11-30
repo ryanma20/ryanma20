@@ -14,7 +14,7 @@
 ## 🎓 Education
 M.A   in Geography, NTNU<br />
 – Awarded as 2023 Graduate Student Honoree ; GPA 4.0/4.5<br />
-– Exchange to the Institute of Geography at UHH (Universität Hamburg)<br />
+– Exchange to the Institute of Geography at UHH (Universität Hamburg), 2023 <br />
 B.Sc. in Geography, PCCU<br />
 
 ## 💼 Work Experience
