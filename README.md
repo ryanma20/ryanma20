@@ -24,9 +24,9 @@ B.Sc. in Geography, PCCU<br />
 - National Taiwan University Hospital,EOM | Full Time Research Assistant | 2021.01-2021.08
 
 ## 📚 Academic Publishing 
--Poster Presentation
-Analysing bus commuting patterns using smart card data: A case study in Neihu Technology Park.</em> [American Association of Geographers 2023 Annual Meeting](https://aag.secure-platform.com/aag2023/solicitations/39/sessiongallery/6823)</em>.USA,Denver. Mar 24, 2023.<br />
--Edited Books
+-Poster Presentation<br />
+Analysing bus commuting patterns using smart card data: A case study in Neihu Technology Park.</em> [American Association of Geographers 2023 Annual Meeting](https://aag.secure-platform.com/aag2023/solicitations/39/sessiongallery/6823)</em>. USA,Denver. Mar 24, 2023.<br />
+-Edited Books<br />
 Studying Taiwan Before Taiwan Studies: American Anthropologists in Cold War Taiwan.</em>Institute of Taiwan History, Academia Sinica</em>.2024.<br />
 ## ⛰️ Interests
 - Amateur postcard illustrator and hiking enthusiast.  
