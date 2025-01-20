@@ -28,6 +28,7 @@ B.Sc. in Geography, PCCU<br />
 -Poster Presentation<br />
 Analysing bus commuting patterns using smart card data: A case study in Neihu Technology Park.[American Association of Geographers 2023 Annual Meeting](https://aag.secure-platform.com/aag2023/solicitations/39/sessiongallery/6823). USA,Denver. Mar 24, 2023.<br />
 -Edited Books<br />
+[Web GIS of bus commuting patterns in the Neihu Technology Park](https://ryanma20.github.io/GeoRyanMa/)<br />
 Studying Taiwan Before Taiwan Studies: American Anthropologists in Cold War Taiwan.Institute of Taiwan History. Institute of Taiwan History, Academia Sinica.2024.<br />
 ## ⛰️ Interests
 - Amateur postcard illustrator and hiking enthusiast.  
