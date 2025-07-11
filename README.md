@@ -18,8 +18,8 @@ M.A   in Geography, NTNU<br />
 B.Sc. in Geography, PCCU<br />
 
 ## 💼 Work Experience
-
-- Academia Sinica,IOE                    | Research Assistant | 2023.10-2024.06<br />
+- RCHSS,Academia Sinica                  | Research Assistant | 2025.05-Present<br />
+- IOE, Academia Sinica                   | Research Assistant | 2023.10-2024.06<br />
 - TMS Technologies Co., LTD.             | Intern             | 2022.09-2023.01<br />
 - Institute for Information Industry,EDU | Teaching Assistant | 2021.09-2023.02<br />
 - National Taiwan University Hospital,EOM| Full Time Research Assistant | 2021.01-2021.08<br />
@@ -44,13 +44,13 @@ Studying Taiwan Before Taiwan Studies: American Anthropologists in Cold War Taiw
 
 - JAPAN<br />
 [2016 Mt.Fuji](https://mmaryan73.medium.com/fujiyamafirst-b93ae96f1865) | [2017 500TYPE EVA, JR West](https://medium.com/@mmaryan73/500typekodama-4ab47ee564b7)<br />
-[2018 Shimakaze,Kintetsu Railway](https://mmaryan73.medium.com/shimakazae-166cb86abe56) | [2023 Autumn Leaves Viewing in Kyoto](https://medium.com/@mmaryan73/kyotofoliage2024-317707ba23fd)<br />
+[2018 Shimakaze,Kintetsu Railway](https://mmaryan73.medium.com/shimakazae-166cb86abe56) | [2023 Autumn leaves viewing in Kyoto](https://medium.com/@mmaryan73/kyotofoliage2024-317707ba23fd)<br />
 
 - EU<br />
 [2023 Swiss hiking](https://mmaryan73.medium.com/swisshiking2023-5a495b4fbab1) | [2023 Dubrovnik](https://mmaryan73.medium.com/goadriatic-e40863c678ab) <br />
 
 - Other logs <br />
-[Yahoo! Travel – Japan Self-Guided Mountain Climbing Adventure: Four Days on Mt. Hotaka](https://tw.news.yahoo.com/%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8A%A9%E7%99%BB%E5%B1%B1%E8%B6%A3-%E7%A9%97%E9%AB%98%E5%B2%B3%E5%9B%9B%E6%97%A5%E8%A1%8C-083352266.html)<br />
+[Yahoo! Travel – Japan self-guided mountain climbing adventure: 4 Days on Mt. Hotaka](https://tw.news.yahoo.com/%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8A%A9%E7%99%BB%E5%B1%B1%E8%B6%A3-%E7%A9%97%E9%AB%98%E5%B2%B3%E5%9B%9B%E6%97%A5%E8%A1%8C-083352266.html)<br />
 
 
 
