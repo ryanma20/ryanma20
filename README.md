@@ -11,12 +11,6 @@
 | :--- | :--- | :--- |
 | ✍️ [Medium](https://medium.com/@mmaryan73) | 💼 [LinkedIn](https://www.linkedin.com/in/zhi-yang-m-043808217/) | 📮[Postmark design](https://www.post.gov.tw/post/internet/Philately/sz_stampmark_dtl.jsp?temp_sn=12444&ID=507)|
 
-## 🎓 Education
-M.A   in Geography, NTNU<br />
-– Awarded as 2023 Graduate Student Honoree ; GPA 4.0/4.5<br />
-– Exchange to the Institute of Geography at UHH (Universität Hamburg), 2023 <br />
-B.Sc. in Geography, PCCU<br />
-
 ## 💼 Work Experience
 - RCHSS,Academia Sinica                  | Research Assistant | 2025.05-Present<br />
 - IOE, Academia Sinica                   | Research Assistant | 2023.10-2024.06<br />
@@ -30,6 +24,13 @@ Analysing bus commuting patterns using smart card data: A case study in Neihu Te
 [Web GIS of bus commuting patterns in the Neihu Technology Park](https://ryanma20.github.io/GeoRyanMa/)<br />
 - Edited Books<br />
 Studying Taiwan Before Taiwan Studies: American Anthropologists in Cold War Taiwan.Institute of Taiwan History. Institute of Taiwan History, Academia Sinica.2024.<br />
+
+## 🎓 Education
+M.A   in Geography, NTNU<br />
+– Awarded as 2023 Graduate Student Honoree ; GPA 4.0/4.5<br />
+– Exchange to the Institute of Geography at UHH (Universität Hamburg), 2023 <br />
+B.Sc. in Geography, PCCU<br />
+
 ## ⛰️ Interests
 - Amateur postcard illustrator and hiking enthusiast.  
 - Published a [Taiwan Mountain Postcard](https://www.zeczec.com/projects/mtpostcard) through crowdfunding in 2023.(嘖嘖募資)<br />
