@@ -15,8 +15,8 @@
 - RCHSS,Academia Sinica                  | Research Assistant | 2025.05-Present<br />
 - IOE, Academia Sinica                   | Research Assistant | 2023.10-2024.06<br />
 - TMS Technologies Co., LTD.             | Intern             | 2022.09-2023.01<br />
-- Institute for Information Industry,EDU | Teaching Assistant | 2021.09-2023.02<br />
-- National Taiwan University Hospital,EOM| Full Time Research Assistant | 2021.01-2021.08<br />
+- EDU,Institute for Information Industry | Teaching Assistant | 2021.09-2023.02<br />
+- EOM,National Taiwan University Hospital| Full Time Research Assistant | 2021.01-2021.08<br />
 
 ## 📚 Academic Publishing 
 - Poster Presentation<br />
